@@ -119,7 +119,7 @@ swift-3pl-platform
 專案後端基於 Laravel 12 Skeleton，需先初始化核心檔案：
 ```bash
 # 克隆專案
-git clone <repository-url>
+git clone https://github.com/BpsEason/swift-3pl-platform.git
 cd swift-3pl-platform
 
 # 初始化 Laravel 專案
